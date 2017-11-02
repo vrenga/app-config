@@ -1,4 +1,4 @@
-yamlsecurity:
+security:
   basic:
     enabled: false
 
